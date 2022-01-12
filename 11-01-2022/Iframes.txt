@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Iframes</title></head>
+  <body>
+    <h2 style="color:Brown">Iframes</h2>
+   <!-- <iframe src="color.html" title="class" height="200" width="300"></iframe>--><br>
+    <iframe src="class.html" style="background-color:black;" title="iframe_example"></iframe>
+    <P>This is for iframe </p> 
+  </body>
+ </html>

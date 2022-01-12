@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Id's</title>
+    <style>
+       #Myid{
+           background-color:powderblue;
+           color:Red;
+         }
+    </style>
+  </head>
+  <body> 
+     <h1 id="Myid"> HEADER </h1>
+     <p> This is stubborn</p>
+  </body>
+ </html>

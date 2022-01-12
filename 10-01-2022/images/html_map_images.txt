@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Map Images</title></head>
+  <body>
+    <img src="flag.jpg" alt="flag" usemap="#workmap">
+    <map name="workmap">
+         <area shape="square" coords="42,42,24,24" alt="computer" href="computer.jpg"> 
+    </map>
+  </body>
+</html>

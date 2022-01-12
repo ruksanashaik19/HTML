@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html> 
+  <head><title>Audio</title></head>
+  <body>
+    <h3>This is for Audio</h3>
+       <audio controls>
+           <source src="bts.mp3" type="audio/mp3">
+       </audio>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Iframe_link</title></head>
+  <body>
+    <h3>Iframe_link</h3>
+    <iframe src="color.html" name="iframe_link" title="Iframe_link"></iframe><br>
+    <a href="https://www.google.com/" target="iframe_link">Google</a> 
+  </body>
+</html>
+  

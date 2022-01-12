@@ -1,0 +1,20 @@
+a:link{
+   color:Blue;
+   background-color:green;
+   background-decoration:none;
+  }
+a:visited{
+  color:powderblue;
+  background-color:red;
+  background-decoration:none;
+ }
+a:hover{
+  color:pink;
+  background-color:blue;
+  background-decoration:underlined;
+ }
+a:active{
+  color:yellow;
+  background-color:seagreen;
+  background-decoration:underlined;
+}
